@@ -81,8 +81,7 @@ def train_model(model, train_loader, criterion, optimizer, num_epochs=3):
 
 ## OUTPUT
 ### Training Loss per Epoch
-
-![alt text](<Screenshot 2025-03-19 100354.png>)
+![image](https://github.com/user-attachments/assets/4b2e89ed-2cc3-43ae-a4b4-33f7206692dd)
 
 ### Confusion Matrix
 
